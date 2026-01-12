@@ -236,6 +236,3 @@ npm run dev
 - **Laravel Fortify**: للتحقق
 - **Laravel Vite**: للأصول
 - **Blade Templates**
-
-- نظام التواصل الصوتي والفيديو
-- تكامل مع منصات التعليم
