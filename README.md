@@ -236,3 +236,4 @@ npm run dev
 - **Laravel Fortify**: للتحقق
 - **Laravel Vite**: للأصول
 - **Blade Templates**
+
